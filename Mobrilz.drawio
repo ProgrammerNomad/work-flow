@@ -12,7 +12,7 @@
         <mxCell id="EqvYEMz56sSsCvxHdlzz-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="540" y="40" width="60" height="110" as="geometry" />
         </mxCell>
-        <object label="" placeholders="1" id="EqvYEMz56sSsCvxHdlzz-2">
+        <object label="&lt;a href=&quot;test data&quot;&gt;Mobile&lt;/a&gt;" placeholders="1" id="EqvYEMz56sSsCvxHdlzz-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="500" y="220" width="120" height="60" as="geometry" />
           </mxCell>
